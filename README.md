@@ -16,3 +16,5 @@ TO learn|Complete?|
 --------|---------|
 Git|Y|
 GitHub|Y|
+
+__PS. Remember to learn!__
