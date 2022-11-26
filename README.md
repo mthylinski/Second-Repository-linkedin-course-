@@ -12,7 +12,7 @@ Plus, you'll learn how to work with the popular [GitHub](https://github.com) web
 - use them as templates for your new projects.
 ___
 
-Column 1|Column 2|
+TO learn|Complete?|
 --------|---------|
-Cell 1|Cell 2|
-Cell 3|Cell 4|
+Git|Y|
+GitHub|Y|
